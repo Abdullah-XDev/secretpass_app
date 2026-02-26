@@ -16,15 +16,15 @@
 - **تصميم داكن وذهبي** احترافي بالكامل
 
 ---
-Photos
-![SecretPass](https://github.com/user-attachments/assets/2c806e9e-1ad0-4d68-a278-8e3b1c32962b)
-<img width="350" height="450" alt="SecretPass1" src="https://github.com/user-attachments/assets/eb616d06-a739-444f-bb32-6a2973af5988" />
-<img width="350" height="450" alt="SecretPass2" src="https://github.com/user-attachments/assets/6632a451-0770-4ca2-8779-caf8291e9e8e" />
-<img width="350" height="450" alt="SecretPass3" src="https://github.com/user-attachments/assets/06fb3788-f44e-47fa-837c-81c51bcbd74b" />
-<img width="350" height="450" alt="SecretPass4" src="https://github.com/user-attachments/assets/bc7e184a-f583-4f9d-ae01-10b7c4fff34b" />
-<img width="350" height="450" alt="SecretPass5" src="https://github.com/user-attachments/assets/47f0ec1b-ca54-472f-b142-a4dbd3bac0d9" />
-<img width="350" height="450" alt="SecretPass6" src="https://github.com/user-attachments/assets/a9e30e11-5fc7-4144-aca2-8bf6e448c5c7" />
-<img width="350" height="450" alt="SecretPass7" src="https://github.com/user-attachments/assets/c6137f67-4053-4bf0-9114-7782147973ab" />
+Photos:
+![SecretPass](https://github.com/user-attachments/assets/5f44176e-8cbd-4bff-a1be-8a80b4a050cd)
+<img width="310" height="650" alt="SecretPass1" src="https://github.com/user-attachments/assets/eb616d06-a739-444f-bb32-6a2973af5988" />
+<img width="310" height="650" alt="SecretPass2" src="https://github.com/user-attachments/assets/6632a451-0770-4ca2-8779-caf8291e9e8e" />
+<img width="310" height="650" alt="SecretPass3" src="https://github.com/user-attachments/assets/06fb3788-f44e-47fa-837c-81c51bcbd74b" />
+<img width="310" height="650" alt="SecretPass4" src="https://github.com/user-attachments/assets/bc7e184a-f583-4f9d-ae01-10b7c4fff34b" />
+<img width="310" height="650" alt="SecretPass5" src="https://github.com/user-attachments/assets/47f0ec1b-ca54-472f-b142-a4dbd3bac0d9" />
+<img width="310" height="650" alt="SecretPass6" src="https://github.com/user-attachments/assets/a9e30e11-5fc7-4144-aca2-8bf6e448c5c7" />
+<img width="310" height="650" alt="SecretPass7" src="https://github.com/user-attachments/assets/c6137f67-4053-4bf0-9114-7782147973ab" />
 
 
 ---
