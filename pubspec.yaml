@@ -1,0 +1,57 @@
+name: secretpass
+description: A secure password manager - SecretPass.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Local Storage
+  flutter_secure_storage: ^9.0.0
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  
+  # Biometric Auth
+  local_auth: ^2.1.8
+  
+  # Encryption
+  encrypt: ^5.0.3
+  crypto: ^3.0.3
+  
+  # UI
+  google_fonts: ^6.1.0
+  flutter_animate: ^4.3.0
+  gap: ^3.0.1
+  cupertino_icons: ^1.0.6
+  
+  # Utils
+  uuid: ^4.2.1
+  intl: ^0.19.0
+  clipboard: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+ # assets:
+  #  - assets/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon.png"
+  adaptive_icon_background: "#0A0A0A"
+  adaptive_icon_foreground: "assets/icon.png"
+  remove_alpha_ios: true
+  web:
+    generate: false
+
+
